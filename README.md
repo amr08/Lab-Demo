@@ -1,7 +1,6 @@
 # Lab-Demo
 
 ## Duke University, Division of Medical Oncology, Department of Tumor Immunology and Oncology
-<br>
 ###Laboratory of Brent, Hanks, M.D., Ph.D.  
 
 **Problem:**  	Previous website was aesthetically unappealing and outdated as shown directly below
