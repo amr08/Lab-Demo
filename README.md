@@ -3,9 +3,13 @@
 ## Duke University, Division of Medical Oncology, Department of Tumor Immunology and Oncology
 ###Laboratory of Brent, Hanks, M.D., Ph.D.  
 
-**Problem:**  	Previous website was aesthetically unappealing and outdated as shown directly below
+**Problem:**  	Previous website was aesthetically unappealing and outdated as shown directly below.
 
-**Task:**       Transferred all content over to Node.js . Update UX/UI
+**Task:**       Transferred all content over to Node.js. Update UX/UI.
+
+**Technologies used:** Node.js, Express.js, EJS, Materilize
+
+**Outcome:** 	Success! Recreated the lab’s website with up to date technologies.
 
 
 ### Lab's old site
@@ -15,15 +19,11 @@
 <br>
 
 
-**Outcome:** 	Success! Recreated the lab’s website with up to date technologies.
-
 
 ### Lab's new site (In progress)
-![](newlab.gif)
+![](newlab2.gif)
 
 
-
-**Technologies used:** Node.js, Express.js, EJS, Materilize
 
 <br>
 
