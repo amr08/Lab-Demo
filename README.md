@@ -5,7 +5,7 @@
 
 **Problem:**  	Previous website was aesthetically unappealing and outdated as shown directly below.
 
-**Task:**       Transferred all content over to Node.js. Update UX/UI.
+**Task:**       Transferred all content over to backend server. Update UX/UI.
 
 **Technologies used:** Node.js, Express.js, EJS, Materilize
 
