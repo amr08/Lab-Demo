@@ -7,7 +7,7 @@
 
 **Task:**       Transfer all content over to backend server. Update UX/UI.
 
-**Technologies used:** Node.js, Express.js, EJS, Materilize
+**Technologies used:** Node.js, Express.js, EJS, Materialize
 
 **Outcome:** 	Success! Recreated the lab’s website with up to date technologies.
 
