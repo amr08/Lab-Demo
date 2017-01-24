@@ -20,7 +20,7 @@
 
 
 
-### Lab's new site (In progress)
+### Lab's new site
 ![](newlab2.gif)
 
 
