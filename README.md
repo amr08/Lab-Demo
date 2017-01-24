@@ -21,7 +21,7 @@
 
 
 ### Lab's new site
-![](newlab2.gif)
+![](HankFinal.gif)
 
 
 
